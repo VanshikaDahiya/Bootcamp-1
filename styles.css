@@ -1,0 +1,23 @@
+#div1{
+    background-color:rgb(231, 69, 107);
+}
+
+#navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-right: 45px;
+    gap: 30px;
+    
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+#table1{
+    margin-left: 40px;
+    width: 90%;
+}
